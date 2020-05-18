@@ -1,7 +1,7 @@
 # Face-detection-and-recognition
 The notebook "face_rec3.ipynb" has been developed according to the instructions present in "FACE_PERSON RECOGNITION MODULE.pdf" file. It mainly works on the principle of transfer learning and triplet loss network. Detailed explanation is available on [pyimagesearch](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/). 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/hafizas101/Face_recognition/blob/master/results/labelled_frames/00007.jpg">
+  <img width="460" height="300" src="https://github.com/hafizas101/Face_recognition/blob/master/results/labelled_frames/00007.jpg">
 </p>
 It consists of two main modules:
 
